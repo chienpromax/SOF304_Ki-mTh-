@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+C:\Users\xuanc\Desktop\bailamkiemthu\tranXuanChien-pd0858-Lab1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
