@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [suite1]">
+  <test thread-count="5" name="test2(failed)">
+    <classes>
+      <class name="poly.edu.vn.Lab7.FactoryInstantiatedTestclass">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- poly.edu.vn.Lab7.FactoryInstantiatedTestclass -->
+    </classes>
+  </test> <!-- test2(failed) -->
+</suite> <!-- Failed suite [suite1] -->

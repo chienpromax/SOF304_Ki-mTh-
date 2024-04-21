@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <test thread-count="5" name="Test1(failed)">
+    <parameter name="BrowserName" value="Chrome"/>
+    <parameter name="Pass" value="456"/>
+    <parameter name="Uername" value="123"/>
+    <classes>
+      <class name="poly.edu.vn.lab6.ParamtersTeting">
+        <methods>
+          <include name="login"/>
+        </methods>
+      </class> <!-- poly.edu.vn.lab6.ParamtersTeting -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

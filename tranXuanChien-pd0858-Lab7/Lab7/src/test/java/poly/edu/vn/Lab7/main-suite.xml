@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="main-suite" parallel="false">
+	<suite-files>	
+		<suite-file path="./suite1.xml"></suite-file>
+		<suite-file path="./suite2.xml"></suite-file>
+	</suite-files>
+	<test name="test">
+	<parameter name="param" value=""/>
+		<classes>
+			<class name="poly.edu.vn.Lab7.testclass"></class>
+			<class name="poly.edu.vn.Lab7.testclass1"></class>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite1" parallel="false">
+	<test name="test1">
+		<classes>
+			<class name="poly.edu.vn.Lab7.testclass1"></class>
+			<class name="poly.edu.vn.Lab7.testclass2"></class>
+		</classes>
+	</test>
+	<test name="test2">
+		<classes>
+			<class name="poly.edu.vn.Lab7.testclass3"></class>
+			<class name="poly.edu.vn.Lab7.FactoryInstantiatedTestclass"></class>
+		</classes>
+	</test>
+</suite>

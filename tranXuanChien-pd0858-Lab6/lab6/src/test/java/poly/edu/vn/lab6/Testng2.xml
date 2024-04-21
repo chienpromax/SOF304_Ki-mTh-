@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1">
+	<test name="Test1">
+		<parameter name="Username" value="123"></parameter>
+		<parameter name="Pass" value="456"></parameter>
+		<parameter name="BrowserName" value="Chrome" />
+		<classes>
+			<class name="poly.edu.vn.lab6.ParamtersTeting" />
+		</classes>
+	</test>
+</suite>
+

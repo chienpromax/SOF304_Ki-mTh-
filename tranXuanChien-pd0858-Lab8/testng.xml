@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="SaveTestNGResultToExcel" parallel="false">
+	<test name="SaveTestNGResultToExcel">
+		<classes>
+			<class name="poly.edu.Lab8.SaveTestNGResultToExcel">
+				<methods>
+					<include name="LaunchWebsite" />
+					<include name="FillLoginDetails" />
+					<include name="DoLogin" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

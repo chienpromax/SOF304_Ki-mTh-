@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="example suite 1" verbose="1">
+    <test name="testing">
+    	<groups>
+    		<run>
+    			<include name="Regression"></include>
+    		</run>
+    	</groups>
+        <classes>
+            <class name="fpoly.edu.vn.lab5.TestGroup"/>
+        </classes>
+    </test>
+</suite>

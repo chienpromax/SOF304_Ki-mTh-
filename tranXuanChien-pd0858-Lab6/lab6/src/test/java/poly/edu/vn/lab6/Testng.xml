@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Feature" parallel="false">
+	<test name="UnitleverTest">
+		<classes>
+			<parameter name="param" value="'i am beforemthod'"></parameter>
+			<class name="poly.edu.vn.lab6.NewTest"></class>
+		</classes>
+	</test>
+</suite>

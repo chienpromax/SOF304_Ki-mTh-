@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite2" parallel="false">
+	<test name="test">
+		<classes>
+			<class name="poly.edu.vn.Lab7.testclass4"></class>
+		</classes>
+	</test>
+</suite>

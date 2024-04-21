@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-25T19:11:40 ICT" name="example suite 1" finished-at="2024-03-25T19:11:40 ICT" duration-ms="95">
+    <groups>
+      <group name="Regression">
+        <method signature="TestGroup.TestCase1()[pri:0, instance:fpoly.edu.vn.lab5.TestGroup@3faf2e7d]" name="TestCase1" class="fpoly.edu.vn.lab5.TestGroup"/>
+        <method signature="TestGroup.TestCase2()[pri:0, instance:fpoly.edu.vn.lab5.TestGroup@3faf2e7d]" name="TestCase2" class="fpoly.edu.vn.lab5.TestGroup"/>
+        <method signature="TestGroup.TestCase4()[pri:0, instance:fpoly.edu.vn.lab5.TestGroup@3faf2e7d]" name="TestCase4" class="fpoly.edu.vn.lab5.TestGroup"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2024-03-25T19:11:40 ICT" name="testing" finished-at="2024-03-25T19:11:40 ICT" duration-ms="95">
+      <class name="fpoly.edu.vn.lab5.TestGroup">
+        <test-method signature="TestCase1()[pri:0, instance:fpoly.edu.vn.lab5.TestGroup@3faf2e7d]" started-at="2024-03-25T19:11:40 ICT" name="TestCase1" finished-at="2024-03-25T19:11:40 ICT" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method signature="TestCase2()[pri:0, instance:fpoly.edu.vn.lab5.TestGroup@3faf2e7d]" started-at="2024-03-25T19:11:40 ICT" name="TestCase2" finished-at="2024-03-25T19:11:40 ICT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method signature="TestCase4()[pri:0, instance:fpoly.edu.vn.lab5.TestGroup@3faf2e7d]" started-at="2024-03-25T19:11:40 ICT" name="TestCase4" finished-at="2024-03-25T19:11:40 ICT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase4 -->
+      </class> <!-- fpoly.edu.vn.lab5.TestGroup -->
+    </test> <!-- testing -->
+  </suite> <!-- example suite 1 -->
+</testng-results>

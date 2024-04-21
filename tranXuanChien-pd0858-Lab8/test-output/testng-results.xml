@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-08T10:18:28 ICT" name="SaveTestNGResultToExcel" finished-at="2024-04-08T10:18:39 ICT" duration-ms="11236">
+    <groups>
+    </groups>
+    <test started-at="2024-04-08T10:18:28 ICT" name="SaveTestNGResultToExcel" finished-at="2024-04-08T10:18:39 ICT" duration-ms="11236">
+      <class name="poly.edu.Lab8.SaveTestNGResultToExcel">
+        <test-method is-config="true" signature="suiteSetup()[pri:0, instance:poly.edu.Lab8.SaveTestNGResultToExcel@1d9b7cce]" started-at="2024-04-08T10:18:28 ICT" name="suiteSetup" finished-at="2024-04-08T10:18:30 ICT" duration-ms="1464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetup -->
+        <test-method signature="LaunchWebsite()[pri:1, instance:poly.edu.Lab8.SaveTestNGResultToExcel@1d9b7cce]" started-at="2024-04-08T10:18:30 ICT" name="LaunchWebsite" description="Opens the TestNG Demo Website for login Test" finished-at="2024-04-08T10:18:33 ICT" duration-ms="3668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchWebsite -->
+        <test-method signature="FillLoginDetails()[pri:2, instance:poly.edu.Lab8.SaveTestNGResultToExcel@1d9b7cce]" started-at="2024-04-08T10:18:33 ICT" name="FillLoginDetails" description="Fill the Login Details" finished-at="2024-04-08T10:18:34 ICT" duration-ms="1209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillLoginDetails -->
+        <test-method signature="DoLogin()[pri:3, instance:poly.edu.Lab8.SaveTestNGResultToExcel@1d9b7cce]" started-at="2024-04-08T10:18:34 ICT" name="DoLogin" description="Perform Login" finished-at="2024-04-08T10:18:39 ICT" duration-ms="4505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DoLogin -->
+        <test-method is-config="true" signature="suiteTearDown()[pri:0, instance:poly.edu.Lab8.SaveTestNGResultToExcel@1d9b7cce]" started-at="2024-04-08T10:18:39 ICT" name="suiteTearDown" finished-at="2024-04-08T10:18:39 ICT" duration-ms="344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+      </class> <!-- poly.edu.Lab8.SaveTestNGResultToExcel -->
+    </test> <!-- SaveTestNGResultToExcel -->
+  </suite> <!-- SaveTestNGResultToExcel -->
+</testng-results>
